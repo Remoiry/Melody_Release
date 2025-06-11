@@ -1,0 +1,6 @@
+{
+    "configVersion": 1,
+    "globalCustomTrackVolumeMultiplier": 1.0,
+    "enableMp3Support": true,
+    "enableWavSupport": false
+}
